@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
 This sudoku problem is copied 
-from Håkan Kjellerstrand's sudoku.py available at:
-http://www.hakank.org/numberjack/
-version simplified, with educational purpose
-exemple expected result:
+from Pierre Ruyssen's post available at:
+http://dev.af83.io/2010/03/19/rsolution-de-problmes-avec-la-programmation-par-contraintes.html
+(here version simplified) with educational purpose.
+See also http://www.hakank.org/numberjack/
+Expected result:
 Number of variables: 81
 Numbder of constraints: 27
 [[1, 2, 3, 4, 5, 6, 7, 8, 9],
