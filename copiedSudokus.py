@@ -46,6 +46,8 @@ for group in squares.row + squares.col + square_groups:
     #print(type(AllDiff(group))) #just class Numberjack.AllDiff
     model += AllDiff(group) 
 
+
+
 print("Number of variables: %i" % len(model.variables))
 print("Numbder of constraints: %i" % len(model.get_exprs()))
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from Numberjack import *
 import itertools
 import math
