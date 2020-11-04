@@ -90,3 +90,4 @@ public class version2 {
         solver.printStatistics();
     }
 }
+
