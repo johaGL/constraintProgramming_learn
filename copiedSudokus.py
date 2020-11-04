@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 This sudoku problem is copied 
 from Pierre Ruyssen's post available at:
@@ -50,7 +50,7 @@ for group in squares.row + squares.col + square_groups:
 
 print("Number of variables: %i" % len(model.variables))
 print("Numbder of constraints: %i" % len(model.get_exprs()))
-
+import Numberjack
 solver = model.load("Mistral")
 solver.solve()
 print(squares)
