@@ -1,0 +1,5 @@
+<instance format="XCSP3" type="CSP">
+  <variables>
+    <array id="x" note="x[i] is the target node to which the ith pattern node is mapped" size="[208]"> 0..831 </array>
+  </variables>
+</instance>
