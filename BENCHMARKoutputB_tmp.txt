@@ -1,0 +1,1624 @@
+BENCHMARK RESULTS
+BENCHMARKdataB/Subisomorphism-Subisomorphism_A-01.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        3           7        0 |         3 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                              3
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           12.148
+ d  NODES                                                                                 3
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              0
+ d  BACKTRACKS                                                                            2
+ d  PROPAGATIONS                                                                          7
+ d  VARIABLES                                                                             2
+ d  CONSTRAINTS                                                                           5
+ d  ARITY                                                                                 3
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] </list>
+v   <values> 2 1 4 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-106.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-111.xml
+c Mistral 16062018
+ c +===========================================+
+ c |       37         469        0 |        27 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             27
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           18.961
+ d  NODES                                                                                37
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                             12
+ d  BACKTRACKS                                                                           36
+ d  PROPAGATIONS                                                                        469
+ d  VARIABLES                                                                            27
+ d  CONSTRAINTS                                                                          39
+ d  ARITY                                                                                27
+ d  WEAKDEC                                                                              11
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] </list>
+v   <values> 109 105 100 25 26 0 108 19 93 106 103 33 24 42 87 34 36 99 102 28 47 104 107 101 46 45 110 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-11.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        3           8        0 |         2 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                              2
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           12.152
+ d  NODES                                                                                 3
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              0
+ d  BACKTRACKS                                                                            2
+ d  PROPAGATIONS                                                                          8
+ d  VARIABLES                                                                             2
+ d  CONSTRAINTS                                                                           4
+ d  ARITY                                                                                 2
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] </list>
+v   <values> 10 9 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-121.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-131.xml
+c Mistral 16062018
+ c +===========================================+
+ c |       87        2401        0 |        32 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             32
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.01
+ d  MEMORY                                                                           23.625
+ d  NODES                                                                                87
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                             59
+ d  BACKTRACKS                                                                           86
+ d  PROPAGATIONS                                                                       2401
+ d  VARIABLES                                                                            32
+ d  CONSTRAINTS                                                                          55
+ d  ARITY                                                                                32
+ d  WEAKDEC                                                                              23
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] </list>
+v   <values> 88 94 127 2 0 113 6 1 79 11 5 92 3 100 35 12 8 118 125 4 128 26 126 129 130 117 123 73 20 112 27 105 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-136.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-151.xml
+c Mistral 16062018
+ c +===========================================+
+ c |      894       45765     0.12 |        37 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             37
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.12
+ d  PREPROCTIME                                                                        0.02
+ d  MEMORY                                                                            34.98
+ d  NODES                                                                               894
+ d  RESTARTS                                                                              4
+ d  FAILURES                                                                            867
+ d  BACKTRACKS                                                                          893
+ d  PROPAGATIONS                                                                      45765
+ d  VARIABLES                                                                            37
+ d  CONSTRAINTS                                                                         100
+ d  ARITY                                                                                37
+ d  WEAKDEC                                                                              42
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] </list>
+v   <values> 0 82 149 41 132 102 6 1 61 92 150 11 3 13 119 15 76 17 18 37 38 19 22 23 24 25 26 27 28 29 30 31 32 20 34 35 36 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-166.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     5872      395550     1.47 |        41 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             41
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            1.47
+ d  PREPROCTIME                                                                        0.03
+ d  MEMORY                                                                           42.406
+ d  NODES                                                                              5872
+ d  RESTARTS                                                                              9
+ d  FAILURES                                                                           5835
+ d  BACKTRACKS                                                                         5871
+ d  PROPAGATIONS                                                                     395550
+ d  VARIABLES                                                                            41
+ d  CONSTRAINTS                                                                         121
+ d  ARITY                                                                                41
+ d  WEAKDEC                                                                             433
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] </list>
+v   <values> 0 1 2 3 4 5 6 162 150 9 10 163 133 165 14 17 16 15 18 19 22 21 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-16.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        5          16        0 |         4 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                              4
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                            12.16
+ d  NODES                                                                                 5
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              0
+ d  BACKTRACKS                                                                            4
+ d  PROPAGATIONS                                                                         16
+ d  VARIABLES                                                                             4
+ d  CONSTRAINTS                                                                           5
+ d  ARITY                                                                                 4
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] </list>
+v   <values> 13 12 0 10 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-171.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-181.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     3084      252966     1.27 |        45 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             45
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            1.27
+ d  PREPROCTIME                                                                        0.04
+ d  MEMORY                                                                           49.621
+ d  NODES                                                                              3084
+ d  RESTARTS                                                                              7
+ d  FAILURES                                                                           3048
+ d  BACKTRACKS                                                                         3083
+ d  PROPAGATIONS                                                                     252966
+ d  VARIABLES                                                                            45
+ d  CONSTRAINTS                                                                         138
+ d  ARITY                                                                                45
+ d  WEAKDEC                                                                             209
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] </list>
+v   <values> 0 1 2 3 4 5 176 7 163 6 16 11 180 134 178 15 10 17 18 19 20 174 22 21 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-191.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-196.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1846      168958     0.94 |        49 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             49
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.94
+ d  PREPROCTIME                                                                        0.04
+ d  MEMORY                                                                           56.023
+ d  NODES                                                                              1846
+ d  RESTARTS                                                                              5
+ d  FAILURES                                                                           1822
+ d  BACKTRACKS                                                                         1845
+ d  PROPAGATIONS                                                                     168958
+ d  VARIABLES                                                                            49
+ d  CONSTRAINTS                                                                         156
+ d  ARITY                                                                                49
+ d  WEAKDEC                                                                             154
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] </list>
+v   <values> 177 194 2 3 4 105 135 85 8 9 185 17 12 6 14 195 16 19 18 11 20 21 22 23 175 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 113 47 48 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-211.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1535      165175        1 |        52 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             52
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               1
+ d  PREPROCTIME                                                                        0.05
+ d  MEMORY                                                                           61.914
+ d  NODES                                                                              1535
+ d  RESTARTS                                                                              5
+ d  FAILURES                                                                           1507
+ d  BACKTRACKS                                                                         1534
+ d  PROPAGATIONS                                                                     165175
+ d  VARIABLES                                                                            52
+ d  CONSTRAINTS                                                                         169
+ d  ARITY                                                                                52
+ d  WEAKDEC                                                                              89
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] </list>
+v   <values> 0 1 2 3 4 5 6 7 8 9 165 11 12 13 210 136 14 17 18 19 20 21 22 23 24 176 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-226.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     3866      435633     2.85 |        56 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             56
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            2.85
+ d  PREPROCTIME                                                                        0.06
+ d  MEMORY                                                                           74.242
+ d  NODES                                                                              3866
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           3831
+ d  BACKTRACKS                                                                         3865
+ d  PROPAGATIONS                                                                     435633
+ d  VARIABLES                                                                            56
+ d  CONSTRAINTS                                                                         182
+ d  ARITY                                                                                56
+ d  WEAKDEC                                                                             184
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] </list>
+v   <values> 0 1 2 3 4 5 6 107 137 87 10 166 7 13 14 8 16 225 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 115 49 50 51 52 53 54 55 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-231.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     4071      421104     2.85 |        57 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             57
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            2.85
+ d  PREPROCTIME                                                                        0.06
+ d  MEMORY                                                                           75.309
+ d  NODES                                                                              4071
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           4029
+ d  BACKTRACKS                                                                         4070
+ d  PROPAGATIONS                                                                     421104
+ d  VARIABLES                                                                            57
+ d  CONSTRAINTS                                                                         179
+ d  ARITY                                                                                57
+ d  WEAKDEC                                                                             243
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] </list>
+v   <values> 149 1 199 3 4 5 187 223 8 99 225 6 178 0 14 230 16 17 18 19 20 21 22 170 2 33 26 229 28 29 30 31 32 25 34 35 47 37 36 39 40 41 42 43 44 45 46 189 48 49 50 51 52 53 54 55 56 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-241.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-251.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-256.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-271.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-286.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-291.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     7485     1099527    11.55 |        72 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             72
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           11.55
+ d  PREPROCTIME                                                                        0.12
+ d  MEMORY                                                                           136.63
+ d  NODES                                                                              7485
+ d  RESTARTS                                                                             10
+ d  FAILURES                                                                           7446
+ d  BACKTRACKS                                                                         7484
+ d  PROPAGATIONS                                                                    1099527
+ d  VARIABLES                                                                            72
+ d  CONSTRAINTS                                                                         276
+ d  ARITY                                                                                72
+ d  WEAKDEC                                                                             255
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] </list>
+v   <values> 0 1 2 3 4 181 6 7 8 9 190 11 12 13 96 15 16 17 27 19 20 21 22 23 102 25 26 5 28 29 276 31 196 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 130 64 65 66 67 68 69 70 71 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-301.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     9956     1594788    18.12 |        75 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             75
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           18.12
+ d  PREPROCTIME                                                                        0.12
+ d  MEMORY                                                                           126.07
+ d  NODES                                                                              9956
+ d  RESTARTS                                                                             11
+ d  FAILURES                                                                           9894
+ d  BACKTRACKS                                                                         9955
+ d  PROPAGATIONS                                                                    1594788
+ d  VARIABLES                                                                            75
+ d  CONSTRAINTS                                                                         248
+ d  ARITY                                                                                75
+ d  WEAKDEC                                                                             564
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] </list>
+v   <values> 1 159 2 3 4 5 6 7 300 9 10 11 12 13 14 15 16 241 24 19 286 21 0 23 26 25 18 27 28 29 30 182 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 284 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-311.xml
+c Mistral 16062018
+ c +===========================================+
+ c |      279       55382     0.65 |        77 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             77
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.65
+ d  PREPROCTIME                                                                        0.16
+ d  MEMORY                                                                           153.88
+ d  NODES                                                                               279
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                            256
+ d  BACKTRACKS                                                                          278
+ d  PROPAGATIONS                                                                      55382
+ d  VARIABLES                                                                            77
+ d  CONSTRAINTS                                                                         302
+ d  ARITY                                                                                77
+ d  WEAKDEC                                                                               6
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] </list>
+v   <values> 0 1 2 3 4 5 182 7 8 9 10 191 12 13 14 6 16 17 18 28 20 21 22 23 24 103 26 27 97 29 30 31 32 197 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 131 65 66 67 68 69 70 71 72 73 74 75 76 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-316.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-31.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        9          50        0 |         7 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                              7
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           12.676
+ d  NODES                                                                                 9
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            8
+ d  PROPAGATIONS                                                                         50
+ d  VARIABLES                                                                             7
+ d  CONSTRAINTS                                                                          10
+ d  ARITY                                                                                 7
+ d  WEAKDEC                                                                               2
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] </list>
+v   <values> 28 26 0 1 29 30 9 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-331.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    13753     2601192    33.98 |        82 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             82
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           33.98
+ d  PREPROCTIME                                                                        0.17
+ d  MEMORY                                                                            161.8
+ d  NODES                                                                             13753
+ d  RESTARTS                                                                             12
+ d  FAILURES                                                                          13702
+ d  BACKTRACKS                                                                        13752
+ d  PROPAGATIONS                                                                    2601192
+ d  VARIABLES                                                                            82
+ d  CONSTRAINTS                                                                         298
+ d  ARITY                                                                                82
+ d  WEAKDEC                                                                             909
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] </list>
+v   <values> 0 1 329 3 144 5 236 7 8 9 2 11 12 13 14 15 16 17 18 243 26 21 22 23 327 25 28 27 20 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 4 70 71 88 73 74 75 286 77 259 79 80 81 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-346.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     3097      570713     8.15 |        86 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             86
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            8.15
+ d  PREPROCTIME                                                                        0.16
+ d  MEMORY                                                                           168.13
+ d  NODES                                                                              3097
+ d  RESTARTS                                                                              7
+ d  FAILURES                                                                           3046
+ d  BACKTRACKS                                                                         3096
+ d  PROPAGATIONS                                                                     570713
+ d  VARIABLES                                                                            86
+ d  CONSTRAINTS                                                                         310
+ d  ARITY                                                                                86
+ d  WEAKDEC                                                                              94
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] </list>
+v   <values> 0 1 2 6 4 5 291 7 8 9 10 344 12 13 14 15 16 17 18 326 244 29 22 187 24 3 26 21 28 27 30 31 32 33 185 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 95 287 89 145 74 75 76 174 78 79 80 81 82 345 336 342 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-351.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1537      352533     4.09 |        87 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             87
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            4.09
+ d  PREPROCTIME                                                                        0.19
+ d  MEMORY                                                                            186.7
+ d  NODES                                                                              1537
+ d  RESTARTS                                                                              5
+ d  FAILURES                                                                           1509
+ d  BACKTRACKS                                                                         1536
+ d  PROPAGATIONS                                                                     352533
+ d  VARIABLES                                                                            87
+ d  CONSTRAINTS                                                                         346
+ d  ARITY                                                                                87
+ d  WEAKDEC                                                                              75
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] </list>
+v   <values> 0 350 2 3 4 5 6 7 184 9 10 11 12 8 14 105 16 13 18 19 20 15 22 23 24 25 26 27 28 29 99 31 32 33 34 335 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 270 75 76 77 78 79 80 81 82 155 84 85 86 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-361.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1186      255455     3.67 |        90 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             90
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            3.67
+ d  PREPROCTIME                                                                        0.19
+ d  MEMORY                                                                           179.02
+ d  NODES                                                                              1186
+ d  RESTARTS                                                                              4
+ d  FAILURES                                                                           1149
+ d  BACKTRACKS                                                                         1185
+ d  PROPAGATIONS                                                                     255455
+ d  VARIABLES                                                                            90
+ d  CONSTRAINTS                                                                         324
+ d  ARITY                                                                                90
+ d  WEAKDEC                                                                             123
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] </list>
+v   <values> 0 1 2 3 26 5 146 7 349 175 10 11 8 13 14 15 16 17 18 19 20 6 22 23 290 25 4 27 30 29 28 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 261 66 67 68 69 70 96 72 288 74 75 76 77 73 79 80 81 82 83 202 199 200 24 204 197 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-371.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1744      406334     5.16 |        92 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             92
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            5.16
+ d  PREPROCTIME                                                                        0.22
+ d  MEMORY                                                                           207.92
+ d  NODES                                                                              1744
+ d  RESTARTS                                                                              5
+ d  FAILURES                                                                           1713
+ d  BACKTRACKS                                                                         1743
+ d  PROPAGATIONS                                                                     406334
+ d  VARIABLES                                                                            92
+ d  CONSTRAINTS                                                                         371
+ d  ARITY                                                                                92
+ d  WEAKDEC                                                                              78
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] </list>
+v   <values> 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 106 17 18 185 20 21 19 23 24 25 26 27 28 29 30 16 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 298 89 271 91 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-376.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     3904      804305    11.33 |        94 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             94
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           11.33
+ d  PREPROCTIME                                                                        0.21
+ d  MEMORY                                                                           202.69
+ d  NODES                                                                              3904
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           3848
+ d  BACKTRACKS                                                                         3903
+ d  PROPAGATIONS                                                                     804305
+ d  VARIABLES                                                                            94
+ d  CONSTRAINTS                                                                         356
+ d  ARITY                                                                                94
+ d  WEAKDEC                                                                             117
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] </list>
+v   <values> 238 1 2 3 4 373 6 7 116 9 176 11 12 8 14 15 16 17 18 19 371 114 0 23 24 25 26 5 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 75 147 76 77 78 74 80 262 82 83 84 96 372 370 141 279 177 91 92 93 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-391.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     7218     1549541     23.6 |        97 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             97
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            23.6
+ d  PREPROCTIME                                                                        0.23
+ d  MEMORY                                                                           222.65
+ d  NODES                                                                              7218
+ d  RESTARTS                                                                             10
+ d  FAILURES                                                                           7153
+ d  BACKTRACKS                                                                         7217
+ d  PROPAGATIONS                                                                    1549541
+ d  VARIABLES                                                                            97
+ d  CONSTRAINTS                                                                         380
+ d  ARITY                                                                                97
+ d  WEAKDEC                                                                             200
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] </list>
+v   <values> 0 372 2 3 4 5 1 7 8 9 14 11 12 13 389 15 16 17 18 19 20 21 22 247 32 25 26 27 377 29 30 31 24 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 263 68 69 70 71 72 290 74 177 76 77 78 79 75 81 82 83 386 85 390 140 224 230 178 333 92 93 116 95 96 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-406.xml
+c Mistral 16062018
+ c +===========================================+
+ c |      941      243746     3.28 |       101 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            101
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            3.28
+ d  PREPROCTIME                                                                        0.28
+ d  MEMORY                                                                           255.22
+ d  NODES                                                                               941
+ d  RESTARTS                                                                              4
+ d  FAILURES                                                                            905
+ d  BACKTRACKS                                                                          940
+ d  PROPAGATIONS                                                                     243746
+ d  VARIABLES                                                                           101
+ d  CONSTRAINTS                                                                         431
+ d  ARITY                                                                               101
+ d  WEAKDEC                                                                              56
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] </list>
+v   <values> 0 1 240 3 4 5 6 2 8 149 118 401 12 13 14 7 16 17 18 19 20 21 373 23 9 25 26 293 28 402 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 264 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 387 86 391 179 225 141 334 231 93 94 117 96 97 98 99 100 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-411.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     5331     1372613    21.94 |       102 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            102
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           21.94
+ d  PREPROCTIME                                                                        0.29
+ d  MEMORY                                                                           264.44
+ d  NODES                                                                              5331
+ d  RESTARTS                                                                              9
+ d  FAILURES                                                                           5279
+ d  BACKTRACKS                                                                         5330
+ d  PROPAGATIONS                                                                    1372613
+ d  VARIABLES                                                                           102
+ d  CONSTRAINTS                                                                         417
+ d  ARITY                                                                               102
+ d  WEAKDEC                                                                             172
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] </list>
+v   <values> 0 1 291 3 410 5 6 7 8 9 10 102 12 13 14 15 11 17 18 19 24 21 22 23 16 25 26 27 28 29 30 31 32 187 34 35 175 37 338 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 108 86 90 158 87 88 89 300 91 273 93 396 95 96 97 98 99 100 101 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-421.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1620      449605     6.39 |       105 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            105
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            6.39
+ d  PREPROCTIME                                                                        0.29
+ d  MEMORY                                                                           271.45
+ d  NODES                                                                              1620
+ d  RESTARTS                                                                              5
+ d  FAILURES                                                                           1575
+ d  BACKTRACKS                                                                         1619
+ d  PROPAGATIONS                                                                     449605
+ d  VARIABLES                                                                           105
+ d  CONSTRAINTS                                                                         447
+ d  ARITY                                                                               105
+ d  WEAKDEC                                                                             113
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] </list>
+v   <values> 0 1 2 241 4 5 6 7 418 9 10 119 353 179 14 15 420 17 18 19 20 21 22 374 24 195 26 27 294 29 403 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 292 83 265 85 86 87 144 335 142 129 414 11 94 95 96 97 98 99 100 101 102 103 104 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-431.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1210      371521     5.44 |       107 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            107
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            5.44
+ d  PREPROCTIME                                                                        0.33
+ d  MEMORY                                                                           292.69
+ d  NODES                                                                              1210
+ d  RESTARTS                                                                              4
+ d  FAILURES                                                                           1177
+ d  BACKTRACKS                                                                         1209
+ d  PROPAGATIONS                                                                     371521
+ d  VARIABLES                                                                           107
+ d  CONSTRAINTS                                                                         461
+ d  ARITY                                                                               107
+ d  WEAKDEC                                                                              46
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] </list>
+v   <values> 0 1 2 292 159 3 6 7 8 9 10 11 188 13 14 15 16 12 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 109 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 301 87 88 89 90 86 92 274 94 95 96 420 393 253 259 218 216 103 104 105 106 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-436.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     3101      931617    14.27 |       109 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            109
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           14.27
+ d  PREPROCTIME                                                                        0.32
+ d  MEMORY                                                                           299.14
+ d  NODES                                                                              3101
+ d  RESTARTS                                                                              7
+ d  FAILURES                                                                           3056
+ d  BACKTRACKS                                                                         3100
+ d  PROPAGATIONS                                                                     931617
+ d  VARIABLES                                                                           109
+ d  CONSTRAINTS                                                                         470
+ d  ARITY                                                                               109
+ d  WEAKDEC                                                                             120
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] </list>
+v   <values> 0 434 2 3 4 5 6 7 8 1 10 11 120 13 14 15 16 9 18 19 20 21 22 23 24 25 375 27 28 29 30 331 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 266 71 72 73 74 75 389 77 180 79 80 81 82 293 84 85 86 87 88 12 181 145 225 415 242 95 96 97 98 99 100 101 102 103 104 263 106 107 105 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-451.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-466.xml
+c Mistral 16062018
+ c +===========================================+
+ c |      561      180821     2.91 |       116 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            116
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            2.91
+ d  PREPROCTIME                                                                        0.42
+ d  MEMORY                                                                           371.23
+ d  NODES                                                                               561
+ d  RESTARTS                                                                              3
+ d  FAILURES                                                                            532
+ d  BACKTRACKS                                                                          560
+ d  PROPAGATIONS                                                                     180821
+ d  VARIABLES                                                                           116
+ d  CONSTRAINTS                                                                         549
+ d  ARITY                                                                               116
+ d  WEAKDEC                                                                              18
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] </list>
+v   <values> 0 1 2 3 4 5 182 7 8 9 10 6 12 13 14 19 16 17 18 11 20 21 22 23 24 25 26 27 28 29 30 436 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 295 153 80 81 82 83 84 85 86 87 88 391 90 377 185 306 452 412 464 97 98 99 100 101 102 103 104 105 106 265 129 109 107 111 112 113 114 115 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-46.xml
+c Mistral 16062018
+ c +===========================================+
+ c |       19         184        0 |        11 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             11
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           13.711
+ d  NODES                                                                                19
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              8
+ d  BACKTRACKS                                                                           18
+ d  PROPAGATIONS                                                                        184
+ d  VARIABLES                                                                            11
+ d  CONSTRAINTS                                                                          17
+ d  ARITY                                                                                11
+ d  WEAKDEC                                                                               9
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] </list>
+v   <values> 44 1 2 5 43 3 8 7 41 9 45 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-471.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     2418      894549    15.68 |       117 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            117
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           15.68
+ d  PREPROCTIME                                                                        0.47
+ d  MEMORY                                                                           435.66
+ d  NODES                                                                              2418
+ d  RESTARTS                                                                              6
+ d  FAILURES                                                                           2386
+ d  BACKTRACKS                                                                         2417
+ d  PROPAGATIONS                                                                     894549
+ d  VARIABLES                                                                           117
+ d  CONSTRAINTS                                                                         548
+ d  ARITY                                                                               117
+ d  WEAKDEC                                                                              54
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] </list>
+v   <values> 0 1 2 3 4 5 6 7 8 9 10 11 12 13 190 15 16 17 18 444 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 285 40 341 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 468 81 82 83 84 85 86 161 88 89 90 91 92 303 94 95 96 97 98 385 452 447 273 461 443 105 106 107 108 109 110 111 112 113 114 115 116 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-481.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1354      448113     7.78 |       120 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            120
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            7.78
+ d  PREPROCTIME                                                                        0.48
+ d  MEMORY                                                                           462.91
+ d  NODES                                                                              1354
+ d  RESTARTS                                                                              5
+ d  FAILURES                                                                           1312
+ d  BACKTRACKS                                                                         1353
+ d  PROPAGATIONS                                                                     448113
+ d  VARIABLES                                                                           120
+ d  CONSTRAINTS                                                                         560
+ d  ARITY                                                                               120
+ d  WEAKDEC                                                                              58
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] </list>
+v   <values> 480 1 2 3 4 5 6 7 8 9 10 11 437 13 14 15 20 17 18 19 192 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 461 74 75 76 77 78 79 80 183 82 83 84 474 154 87 88 89 392 91 200 343 165 358 388 479 98 99 100 101 102 103 104 105 106 107 108 130 110 266 112 113 114 115 116 188 118 119 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-491.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     3805     1381141     26.1 |       122 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            122
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            26.1
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                           496.99
+ d  NODES                                                                              3805
+ d  RESTARTS                                                                              7
+ d  FAILURES                                                                           3770
+ d  BACKTRACKS                                                                         3804
+ d  PROPAGATIONS                                                                    1381141
+ d  VARIABLES                                                                           122
+ d  CONSTRAINTS                                                                         581
+ d  ARITY                                                                               122
+ d  WEAKDEC                                                                             154
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] </list>
+v   <values> 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 191 16 17 18 19 445 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 342 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 469 82 83 84 85 86 87 88 89 90 91 92 93 162 95 96 97 482 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 138 118 117 120 121 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-496.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1066      375017     6.49 |       124 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            124
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            6.49
+ d  PREPROCTIME                                                                        0.55
+ d  MEMORY                                                                           507.41
+ d  NODES                                                                              1066
+ d  RESTARTS                                                                              4
+ d  FAILURES                                                                           1031
+ d  BACKTRACKS                                                                         1065
+ d  PROPAGATIONS                                                                     375017
+ d  VARIABLES                                                                           124
+ d  CONSTRAINTS                                                                         605
+ d  ARITY                                                                               124
+ d  WEAKDEC                                                                              54
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] </list>
+v   <values> 155 0 2 3 4 184 6 7 8 9 10 11 12 193 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 438 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 393 495 475 83 84 85 86 87 88 89 90 91 92 206 207 213 211 81 33 99 100 101 102 103 104 105 106 107 108 109 110 111 267 113 114 115 116 117 118 119 120 121 122 123 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-511.xml
+c Mistral 16062018
+ c +===========================================+
+ c |      467      169775     2.81 |       127 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            127
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            2.81
+ d  PREPROCTIME                                                                        0.56
+ d  MEMORY                                                                           539.01
+ d  NODES                                                                               467
+ d  RESTARTS                                                                              2
+ d  FAILURES                                                                            439
+ d  BACKTRACKS                                                                          466
+ d  PROPAGATIONS                                                                     169775
+ d  VARIABLES                                                                           127
+ d  CONSTRAINTS                                                                         636
+ d  ARITY                                                                               127
+ d  WEAKDEC                                                                              23
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] </list>
+v   <values> 476 156 510 3 4 5 185 7 8 9 10 11 12 13 6 15 16 17 22 19 20 21 439 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 463 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 394 93 356 471 18 357 358 347 100 101 102 103 104 105 106 107 108 109 113 111 112 110 114 115 116 117 118 119 120 121 122 123 124 125 126 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-51.xml
+c Mistral 16062018
+ c +===========================================+
+ c |       12          54        0 |        12 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             12
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           13.152
+ d  NODES                                                                                12
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              0
+ d  BACKTRACKS                                                                           11
+ d  PROPAGATIONS                                                                         54
+ d  VARIABLES                                                                            12
+ d  CONSTRAINTS                                                                          12
+ d  ARITY                                                                                12
+ d  WEAKDEC                                                                               6
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] </list>
+v   <values> 21 48 4 5 23 3 0 49 1 2 46 43 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-526.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     4770     1670092    28.11 |       131 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            131
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           28.11
+ d  PREPROCTIME                                                                        0.61
+ d  MEMORY                                                                           582.65
+ d  NODES                                                                              4770
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           4696
+ d  BACKTRACKS                                                                         4769
+ d  PROPAGATIONS                                                                    1670092
+ d  VARIABLES                                                                           131
+ d  CONSTRAINTS                                                                         657
+ d  ARITY                                                                               131
+ d  WEAKDEC                                                                             567
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] </list>
+v   <values> 0 1 157 525 4 5 6 7 8 9 186 11 12 13 14 15 16 17 18 23 20 21 22 19 24 25 26 27 28 29 30 31 32 33 34 35 36 337 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 497 83 477 85 86 87 88 89 90 91 92 395 94 150 10 149 136 248 187 101 102 103 104 105 106 107 108 109 110 191 133 113 269 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-531.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     4903     2062604    38.78 |       132 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            132
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           38.78
+ d  PREPROCTIME                                                                        0.61
+ d  MEMORY                                                                           587.69
+ d  NODES                                                                              4903
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           4861
+ d  BACKTRACKS                                                                         4902
+ d  PROPAGATIONS                                                                    2062604
+ d  VARIABLES                                                                           132
+ d  CONSTRAINTS                                                                         664
+ d  ARITY                                                                               132
+ d  WEAKDEC                                                                             235
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] </list>
+v   <values> 451 0 2 3 4 5 6 7 297 9 1 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 447 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 344 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 471 84 85 86 87 88 89 90 484 92 93 94 95 96 97 98 99 164 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 276 122 123 124 125 126 127 128 129 130 131 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-541.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     4028     1750775    31.69 |       135 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            135
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           31.69
+ d  PREPROCTIME                                                                        0.69
+ d  MEMORY                                                                           622.66
+ d  NODES                                                                              4028
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           3993
+ d  BACKTRACKS                                                                         4027
+ d  PROPAGATIONS                                                                    1750775
+ d  VARIABLES                                                                           135
+ d  CONSTRAINTS                                                                         705
+ d  ARITY                                                                               135
+ d  WEAKDEC                                                                             230
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] </list>
+v   <values> 0 1 2 158 540 5 6 7 187 9 10 11 12 13 14 15 441 17 18 19 24 21 22 23 196 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 465 78 79 80 81 82 498 84 89 86 87 88 478 90 91 92 93 396 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 115 113 114 112 116 117 118 119 120 121 122 123 124 125 126 127 128 129 270 131 132 133 134 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-551.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     4074     1908387    34.09 |       137 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            137
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           34.09
+ d  PREPROCTIME                                                                        0.69
+ d  MEMORY                                                                           656.28
+ d  NODES                                                                              4074
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           4035
+ d  BACKTRACKS                                                                         4073
+ d  PROPAGATIONS                                                                    1908387
+ d  VARIABLES                                                                           137
+ d  CONSTRAINTS                                                                         729
+ d  ARITY                                                                               137
+ d  WEAKDEC                                                                             196
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] </list>
+v   <values> 0 298 452 3 4 5 6 7 8 1 10 2 12 13 14 15 16 17 194 19 20 21 22 203 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 448 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 472 85 86 87 88 89 90 505 96 93 94 95 485 165 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 199 120 121 119 123 124 125 126 127 277 129 130 131 132 133 134 135 136 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-556.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     2645     1145168    21.71 |       139 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            139
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           21.71
+ d  PREPROCTIME                                                                         0.7
+ d  MEMORY                                                                           656.57
+ d  NODES                                                                              2645
+ d  RESTARTS                                                                              6
+ d  FAILURES                                                                           2612
+ d  BACKTRACKS                                                                         2644
+ d  PROPAGATIONS                                                                    1145168
+ d  VARIABLES                                                                           139
+ d  CONSTRAINTS                                                                         732
+ d  ARITY                                                                               139
+ d  WEAKDEC                                                                             131
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] </list>
+v   <values> 0 1 2 3 159 4 6 7 8 188 10 11 12 13 14 15 16 442 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 466 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 479 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 116 114 115 193 117 118 119 120 121 146 123 124 125 126 127 128 129 130 271 132 133 134 135 383 137 138 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-571.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     7971     3966308    75.62 |       142 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            142
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           75.62
+ d  PREPROCTIME                                                                        0.72
+ d  MEMORY                                                                           683.31
+ d  NODES                                                                              7971
+ d  RESTARTS                                                                             10
+ d  FAILURES                                                                           7925
+ d  BACKTRACKS                                                                         7970
+ d  PROPAGATIONS                                                                    3966308
+ d  VARIABLES                                                                           142
+ d  CONSTRAINTS                                                                         749
+ d  ARITY                                                                               142
+ d  WEAKDEC                                                                             549
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] </list>
+v   <values> 0 1 2 3 4 5 6 7 8 9 10 11 12 189 14 15 16 17 13 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 467 80 81 82 83 84 85 86 91 88 89 90 480 160 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 194 118 119 120 121 122 147 124 125 126 127 128 129 130 131 272 133 134 135 136 137 138 139 140 544 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-586.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     5536     2724131    52.49 |       146 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            146
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           52.49
+ d  PREPROCTIME                                                                        0.76
+ d  MEMORY                                                                           719.11
+ d  NODES                                                                              5536
+ d  RESTARTS                                                                              9
+ d  FAILURES                                                                           5492
+ d  BACKTRACKS                                                                         5535
+ d  PROPAGATIONS                                                                    2724131
+ d  VARIABLES                                                                           146
+ d  CONSTRAINTS                                                                         777
+ d  ARITY                                                                               146
+ d  WEAKDEC                                                                             283
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] </list>
+v   <values> 0 1 2 3 4 5 6 448 8 9 10 190 12 13 14 15 16 17 18 11 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 468 81 82 83 84 85 86 87 481 89 90 91 92 93 94 95 96 97 98 447 170 346 155 191 153 105 106 107 108 109 110 111 112 113 114 115 116 117 273 119 120 121 122 123 195 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 545 143 144 145 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-591.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    82027    39458300   707.53 |       147 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            147
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          707.52
+ d  PREPROCTIME                                                                        0.82
+ d  MEMORY                                                                           794.29
+ d  NODES                                                                             82027
+ d  RESTARTS                                                                             18
+ d  FAILURES                                                                          81942
+ d  BACKTRACKS                                                                        82026
+ d  PROPAGATIONS                                                                   39458300
+ d  VARIABLES                                                                           147
+ d  CONSTRAINTS                                                                         814
+ d  ARITY                                                                               147
+ d  WEAKDEC                                                                            1047
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] </list>
+v   <values> 0 1 2 454 3 5 6 7 8 9 10 300 12 4 14 15 16 196 18 19 20 21 22 23 24 17 26 27 28 450 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 487 99 100 101 102 167 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 279 122 123 121 125 126 127 128 129 201 131 132 133 134 135 136 137 138 139 140 141 142 143 391 145 146 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-601.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     4330     2302234    44.36 |       150 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            150
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           44.36
+ d  PREPROCTIME                                                                        0.86
+ d  MEMORY                                                                           773.53
+ d  NODES                                                                              4330
+ d  RESTARTS                                                                              8
+ d  FAILURES                                                                           4288
+ d  BACKTRACKS                                                                         4329
+ d  PROPAGATIONS                                                                    2302234
+ d  VARIABLES                                                                           150
+ d  CONSTRAINTS                                                                         825
+ d  ARITY                                                                               150
+ d  WEAKDEC                                                                             271
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] </list>
+v   <values> 0 1 2 3 4 5 6 162 8 9 10 11 191 13 14 15 16 17 18 19 200 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 445 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 469 82 83 84 85 86 87 502 89 90 91 92 93 94 95 96 97 98 99 482 204 418 415 304 506 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 546 144 145 146 147 148 149 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-611.xml
+c Mistral 16062018
+ c +===========================================+
+ c |   101042    53509865   1008.1 |       152 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            152
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          1008.1
+ d  PREPROCTIME                                                                        0.91
+ d  MEMORY                                                                           858.16
+ d  NODES                                                                            101042
+ d  RESTARTS                                                                             19
+ d  FAILURES                                                                         100963
+ d  BACKTRACKS                                                                       101041
+ d  PROPAGATIONS                                                                   53509865
+ d  VARIABLES                                                                           152
+ d  CONSTRAINTS                                                                         860
+ d  ARITY                                                                               152
+ d  WEAKDEC                                                                            1128
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] </list>
+v   <values> 0 1 2 3 5 455 6 7 8 9 10 11 12 13 4 15 16 17 197 19 20 21 22 23 24 25 206 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 168 107 488 309 505 451 112 113 114 115 116 117 118 119 120 121 122 123 124 202 126 127 128 129 130 280 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 552 150 151 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-616.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     1301      687906    13.78 |       154 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            154
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                           13.78
+ d  PREPROCTIME                                                                        0.87
+ d  MEMORY                                                                           803.73
+ d  NODES                                                                              1301
+ d  RESTARTS                                                                              4
+ d  FAILURES                                                                           1270
+ d  BACKTRACKS                                                                         1300
+ d  PROPAGATIONS                                                                     687906
+ d  VARIABLES                                                                           154
+ d  CONSTRAINTS                                                                         843
+ d  ARITY                                                                               154
+ d  WEAKDEC                                                                              42
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] </list>
+v   <values> 296 1 2 3 4 5 6 450 163 0 10 11 12 13 14 15 192 17 18 19 20 16 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 610 83 84 85 86 87 88 89 90 91 92 93 483 95 96 97 98 99 100 449 172 348 193 157 387 107 108 109 110 111 112 113 114 115 116 117 118 119 197 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 275 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-61.xml
+c Mistral 16062018
+ c +===========================================+
+ c |       22         233        0 |        15 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             15
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           14.324
+ d  NODES                                                                                22
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              8
+ d  BACKTRACKS                                                                           21
+ d  PROPAGATIONS                                                                        233
+ d  VARIABLES                                                                            15
+ d  CONSTRAINTS                                                                          21
+ d  ARITY                                                                                15
+ d  WEAKDEC                                                                              12
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] </list>
+v   <values> 59 0 2 3 57 60 54 47 8 58 10 55 17 31 20 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-631.xml
+c Mistral 16062018
+ c +===========================================+
+ c |     9787     5389469   102.59 |       157 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            157
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          102.59
+ d  PREPROCTIME                                                                        0.87
+ d  MEMORY                                                                           831.06
+ d  NODES                                                                              9787
+ d  RESTARTS                                                                             11
+ d  FAILURES                                                                           9735
+ d  BACKTRACKS                                                                         9786
+ d  PROPAGATIONS                                                                    5389469
+ d  VARIABLES                                                                           157
+ d  CONSTRAINTS                                                                         856
+ d  ARITY                                                                               157
+ d  WEAKDEC                                                                             408
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] </list>
+v   <values> 297 451 2 3 4 5 6 7 0 9 450 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 611 84 85 86 87 88 89 90 91 92 93 94 484 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 198 128 129 130 131 132 133 134 135 276 137 138 139 140 388 142 143 144 548 146 147 148 149 150 151 152 153 154 155 156 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-646.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    17669     9722060   185.38 |       161 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            161
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          185.38
+ d  PREPROCTIME                                                                        0.95
+ d  MEMORY                                                                           892.41
+ d  NODES                                                                             17669
+ d  RESTARTS                                                                             13
+ d  FAILURES                                                                          17611
+ d  BACKTRACKS                                                                        17668
+ d  PROPAGATIONS                                                                    9722060
+ d  VARIABLES                                                                           161
+ d  CONSTRAINTS                                                                         905
+ d  ARITY                                                                               161
+ d  WEAKDEC                                                                             572
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] </list>
+v   <values> 0 298 1 3 4 5 6 7 8 452 10 451 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 448 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 505 485 93 94 95 96 165 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 277 123 124 125 126 127 199 129 130 131 132 133 134 135 136 137 138 139 140 141 389 143 144 145 146 147 148 149 150 151 152 153 154 155 605 157 158 159 160 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-651.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-661.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    89859    51457715   944.83 |       165 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            165
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          944.82
+ d  PREPROCTIME                                                                        1.04
+ d  MEMORY                                                                           983.18
+ d  NODES                                                                             89859
+ d  RESTARTS                                                                             18
+ d  FAILURES                                                                          89775
+ d  BACKTRACKS                                                                        89858
+ d  PROPAGATIONS                                                                   51457715
+ d  VARIABLES                                                                           165
+ d  CONSTRAINTS                                                                         948
+ d  ARITY                                                                               165
+ d  WEAKDEC                                                                             951
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] </list>
+v   <values> 0 1 3 2 4 5 6 7 8 9 453 11 10 13 14 15 195 17 18 19 20 21 22 23 204 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 613 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 486 103 449 175 577 183 240 578 110 111 112 113 114 115 116 117 118 119 120 121 122 278 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 648 148 149 150 151 152 153 154 155 156 157 158 159 160 161 196 163 452 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-671.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    94313    56756542     1066 |       167 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            167
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            1066
+ d  PREPROCTIME                                                                        1.31
+ d  MEMORY                                                                           1046.6
+ d  NODES                                                                             94313
+ d  RESTARTS                                                                             18
+ d  FAILURES                                                                          94234
+ d  BACKTRACKS                                                                        94312
+ d  PROPAGATIONS                                                                   56756542
+ d  VARIABLES                                                                           167
+ d  CONSTRAINTS                                                                         983
+ d  ARITY                                                                               167
+ d  WEAKDEC                                                                             917
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] x[165] x[166] </list>
+v   <values> 0 1 2 3 4 5 6 7 15 9 10 11 12 13 14 458 16 8 18 19 20 200 22 23 24 25 26 27 28 21 30 31 32 454 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 618 91 92 93 94 95 96 97 98 99 100 101 491 103 104 105 106 171 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 205 135 136 137 138 139 140 141 142 283 144 145 146 147 148 149 150 151 653 153 154 155 156 157 158 159 160 161 162 163 164 165 166 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-676.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    67227    39974937   680.92 |       169 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            169
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          680.92
+ d  PREPROCTIME                                                                         1.1
+ d  MEMORY                                                                             1064
+ d  NODES                                                                             67227
+ d  RESTARTS                                                                             17
+ d  FAILURES                                                                          67149
+ d  BACKTRACKS                                                                        67226
+ d  PROPAGATIONS                                                                   39974937
+ d  VARIABLES                                                                           169
+ d  CONSTRAINTS                                                                        1016
+ d  ARITY                                                                               169
+ d  WEAKDEC                                                                             809
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] x[165] x[166] x[167] x[168] </list>
+v   <values> 0 1 2 11 454 5 6 7 8 9 10 3 12 4 14 15 16 17 18 19 20 21 22 23 24 450 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 487 125 126 127 128 129 130 131 132 133 134 135 136 137 138 279 140 141 142 143 391 145 146 147 148 149 150 151 152 153 154 155 156 157 607 159 160 161 162 163 164 165 166 167 168 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-691.xml
+c Mistral 16062018
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-706.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    34754    23057779   398.22 |       176 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            176
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          398.22
+ d  PREPROCTIME                                                                        1.21
+ d  MEMORY                                                                           1165.3
+ d  NODES                                                                             34754
+ d  RESTARTS                                                                             15
+ d  FAILURES                                                                          34690
+ d  BACKTRACKS                                                                        34753
+ d  PROPAGATIONS                                                                   23057779
+ d  VARIABLES                                                                           176
+ d  CONSTRAINTS                                                                        1089
+ d  ARITY                                                                               176
+ d  WEAKDEC                                                                             475
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] x[165] x[166] x[167] x[168] x[169] x[170] x[171] x[172] x[173] x[174] x[175] </list>
+v   <values> 0 1 2 3 4 456 6 7 8 9 10 11 12 5 14 13 16 17 18 198 20 21 22 23 24 25 26 19 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 489 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 616 89 90 91 92 93 94 509 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 393 147 148 149 651 151 152 153 154 155 156 157 158 281 159 161 162 163 164 199 166 455 165 169 170 171 172 173 186 175 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-711.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    63188    44955303   814.39 |       177 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            177
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          814.39
+ d  PREPROCTIME                                                                        1.32
+ d  MEMORY                                                                           1422.6
+ d  NODES                                                                             63188
+ d  RESTARTS                                                                             17
+ d  FAILURES                                                                          63119
+ d  BACKTRACKS                                                                        63187
+ d  PROPAGATIONS                                                                   44955303
+ d  VARIABLES                                                                           177
+ d  CONSTRAINTS                                                                        1117
+ d  ARITY                                                                               177
+ d  WEAKDEC                                                                             968
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] x[165] x[166] x[167] x[168] x[169] x[170] x[171] x[172] x[173] x[174] x[175] x[176] </list>
+v   <values> 0 1 2 3 4 5 6 7 8 306 9 11 12 13 14 15 16 460 18 459 20 21 22 23 24 25 26 27 28 29 30 456 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 493 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 207 131 132 133 134 135 285 137 138 139 140 141 142 143 144 145 146 147 148 149 397 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 203 170 171 169 173 174 175 176 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-71.xml
+c Mistral 16062018
+ c +===========================================+
+ c |       17          89        0 |        17 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                             17
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           13.934
+ d  NODES                                                                                17
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              0
+ d  BACKTRACKS                                                                           16
+ d  PROPAGATIONS                                                                         89
+ d  VARIABLES                                                                            17
+ d  CONSTRAINTS                                                                          17
+ d  ARITY                                                                                17
+ d  WEAKDEC                                                                              11
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] </list>
+v   <values> 69 32 2 3 68 5 8 4 70 0 1 27 49 62 6 7 67 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-721.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    45238    31149506   552.61 |       180 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            180
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          552.61
+ d  PREPROCTIME                                                                        1.33
+ d  MEMORY                                                                           1391.7
+ d  NODES                                                                             45238
+ d  RESTARTS                                                                             16
+ d  FAILURES                                                                          45166
+ d  BACKTRACKS                                                                        45237
+ d  PROPAGATIONS                                                                   31149506
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                        1122
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                             612
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] x[165] x[166] x[167] x[168] x[169] x[170] x[171] x[172] x[173] x[174] x[175] x[176] x[177] x[178] x[179] </list>
+v   <values> 0 1 2 3 4 5 14 6 8 9 10 11 12 13 457 15 7 17 18 19 20 21 22 23 24 25 26 27 453 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 490 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 282 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 652 152 153 154 155 156 157 158 159 160 610 162 163 164 165 200 167 168 456 170 171 172 173 174 394 176 177 178 179 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-731.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    95121    66984766   1190.6 |       182 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            182
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          1190.6
+ d  PREPROCTIME                                                                         1.4
+ d  MEMORY                                                                           1478.2
+ d  NODES                                                                             95121
+ d  RESTARTS                                                                             18
+ d  FAILURES                                                                          95036
+ d  BACKTRACKS                                                                        95120
+ d  PROPAGATIONS                                                                   66984766
+ d  VARIABLES                                                                           182
+ d  CONSTRAINTS                                                                        1156
+ d  ARITY                                                                               182
+ d  WEAKDEC                                                                            1233
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] x[165] x[166] x[167] x[168] x[169] x[170] x[171] x[172] x[173] x[174] x[175] x[176] x[177] x[178] x[179] x[180] x[181] </list>
+v   <values> 0 1 2 3 4 5 6 7 8 9 307 18 12 13 14 15 16 17 461 19 460 21 22 23 203 25 26 27 28 29 30 31 457 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 621 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 494 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 286 138 139 140 141 142 143 144 145 146 147 148 149 150 398 152 153 154 155 156 157 158 159 160 161 162 163 164 614 166 167 168 169 204 171 172 453 174 175 176 177 178 191 180 181 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-736.xml
+c Mistral 16062018
+ c +===========================================+
+ c |    56762    40153833   713.41 |       184 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                               SATISFIABLE
+ v                                                                                        1
+ d  MAXDEPTH                                                                            184
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                          713.41
+ d  PREPROCTIME                                                                        1.38
+ d  MEMORY                                                                           1482.9
+ d  NODES                                                                             56762
+ d  RESTARTS                                                                             17
+ d  FAILURES                                                                          56685
+ d  BACKTRACKS                                                                        56761
+ d  PROPAGATIONS                                                                   40153833
+ d  VARIABLES                                                                           184
+ d  CONSTRAINTS                                                                        1149
+ d  ARITY                                                                               184
+ d  WEAKDEC                                                                             661
+ c +========================================================================================+
+v <instantiation type="solution">
+v   <list> x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13] x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25] x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37] x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49] x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] x[60] x[61] x[62] x[63] x[64] x[65] x[66] x[67] x[68] x[69] x[70] x[71] x[72] x[73] x[74] x[75] x[76] x[77] x[78] x[79] x[80] x[81] x[82] x[83] x[84] x[85] x[86] x[87] x[88] x[89] x[90] x[91] x[92] x[93] x[94] x[95] x[96] x[97] x[98] x[99] x[100] x[101] x[102] x[103] x[104] x[105] x[106] x[107] x[108] x[109] x[110] x[111] x[112] x[113] x[114] x[115] x[116] x[117] x[118] x[119] x[120] x[121] x[122] x[123] x[124] x[125] x[126] x[127] x[128] x[129] x[130] x[131] x[132] x[133] x[134] x[135] x[136] x[137] x[138] x[139] x[140] x[141] x[142] x[143] x[144] x[145] x[146] x[147] x[148] x[149] x[150] x[151] x[152] x[153] x[154] x[155] x[156] x[157] x[158] x[159] x[160] x[161] x[162] x[163] x[164] x[165] x[166] x[167] x[168] x[169] x[170] x[171] x[172] x[173] x[174] x[175] x[176] x[177] x[178] x[179] x[180] x[181] x[182] x[183] </list>
+v   <values> 0 1 2 3 4 5 6 8 458 9 10 11 12 13 14 7 16 457 18 19 20 21 22 23 24 25 26 27 28 454 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 491 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 205 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 724 153 154 155 156 157 158 159 160 283 611 163 164 165 166 167 168 169 161 171 172 173 174 175 176 177 178 179 180 181 182 183 </values>
+v </instantiation>
+BENCHMARKdataB/Subisomorphism-Subisomorphism_METABO-751.xml
+c Mistral 16062018
