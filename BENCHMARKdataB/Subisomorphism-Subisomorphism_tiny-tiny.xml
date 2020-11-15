@@ -1,0 +1,27 @@
+<instance format="XCSP3" type="CSP">
+  <variables>
+    <array id="x" note="x[i] is the target node to which the ith pattern node is mapped" size="[3]"> 0..4 </array>
+  </variables>
+  <constraints>
+    <allDifferent note="ensuring injectivity"> x[] </allDifferent>
+    <group note="preserving edges">
+      <extension>
+        <list> %0 %1 </list>
+        <supports> (0,1)(1,0)(1,2)(1,4)(2,1)(2,3)(3,2)(4,1)(4,5)(5,4) </supports>
+      </extension>
+      <args> x[0] x[1] </args>
+      <args> x[1] x[2] </args>
+      <args> x[2] x[1] </args>
+    </group>
+    <block class="redundant-constraints">
+      <extension>
+        <list> x[1] </list>
+        <conflicts> 0 2..4 </conflicts>
+      </extension>
+      <extension>
+        <list> x[2] </list>
+        <conflicts> 0 3 </conflicts>
+      </extension>
+    </block>
+  </constraints>
+</instance>
