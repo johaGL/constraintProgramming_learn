@@ -1,0 +1,1595 @@
+BENCHMARK RESULTS
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_0.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          37        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.02
+ d  MEMORY                                                                           50.684
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         37
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_1.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          25        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           50.684
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         25
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_2.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          35        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           50.676
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         35
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_3.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          35        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           50.676
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         35
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_4.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          31        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                            50.68
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         31
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_5.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          42        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.01
+ d  MEMORY                                                                           50.672
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         42
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_6.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          35        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           50.676
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         35
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_7.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          29        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                           0
+ d  MEMORY                                                                           50.684
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         29
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_40_node_8.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          31        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.01
+ d  MEMORY                                                                           50.688
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         31
+ d  VARIABLES                                                                            40
+ d  CONSTRAINTS                                                                          59
+ d  ARITY                                                                                40
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-01.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          16        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           131.49
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         16
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         499
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-02.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          71        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           130.53
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         71
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         493
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-03.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          65        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           132.71
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         65
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         505
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-04.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          57        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           131.44
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         57
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         498
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-05.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          22        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.08
+ d  MEMORY                                                                           130.41
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         22
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         493
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-06.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          77     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.06
+ d  MEMORY                                                                           128.85
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         77
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         485
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-07.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          44        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.08
+ d  MEMORY                                                                            129.8
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         44
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         490
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-08.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          99        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           130.25
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         99
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         493
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-09.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          33        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                            128.8
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         33
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         485
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-10.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          57        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.08
+ d  MEMORY                                                                           130.98
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         57
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         495
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-11.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          85        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           129.97
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         85
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         491
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-12.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          17        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           129.67
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         17
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         489
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-13.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          10        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           128.68
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         10
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         486
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-14.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          71        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           131.91
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         71
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         499
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-15.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         150        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           128.19
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        150
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         481
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-16.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         201        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           129.76
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        201
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         488
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-17.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          46        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           129.87
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         46
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         490
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-18.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          44        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           130.98
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         44
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         495
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_A-19.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          99        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.07
+ d  MEMORY                                                                           128.15
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         99
+ d  VARIABLES                                                                           180
+ d  CONSTRAINTS                                                                         480
+ d  ARITY                                                                               180
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-01.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          28        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                           603.75
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         28
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1459
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-02.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         194     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                           611.58
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        194
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1472
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-03.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         130        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.53
+ d  MEMORY                                                                           613.99
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        130
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1473
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-04.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         120     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                           603.98
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        120
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1450
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-05.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         114        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.53
+ d  MEMORY                                                                           615.31
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        114
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1478
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-06.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          99     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                           614.74
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         99
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1477
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-07.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         152        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                            610.6
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        152
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1470
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-08.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          62     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                           605.36
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         62
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1461
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-09.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          95        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                           601.77
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         95
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1450
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-10.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         111     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                            618.4
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        111
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1486
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-11.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         219     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.02
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                           611.13
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        219
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1468
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-12.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         110     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.02
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                           607.27
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        110
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1456
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-13.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         105     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                            609.2
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        105
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1463
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-14.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         274     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                           612.71
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        274
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1468
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-15.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         140        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.53
+ d  MEMORY                                                                           616.12
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        140
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1477
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-16.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          35        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                           607.64
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         35
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1468
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-17.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         199     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                           605.72
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        199
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1458
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-18.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         205     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.51
+ d  MEMORY                                                                            608.7
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        205
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1467
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_B-19.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         154     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        0.52
+ d  MEMORY                                                                           616.79
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        154
+ d  VARIABLES                                                                           540
+ d  CONSTRAINTS                                                                        1485
+ d  ARITY                                                                               540
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-01.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          83     0.03 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.03
+ d  PREPROCTIME                                                                        1.42
+ d  MEMORY                                                                           1554.1
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         83
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2453
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-02.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         249     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.02
+ d  PREPROCTIME                                                                        1.47
+ d  MEMORY                                                                           1565.5
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        249
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2465
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-03.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          33        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                         1.4
+ d  MEMORY                                                                           1540.9
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         33
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2442
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-04.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          47        0 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                               0
+ d  PREPROCTIME                                                                        1.42
+ d  MEMORY                                                                             1569
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         47
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2477
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-05.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          85     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                         1.4
+ d  MEMORY                                                                           1561.5
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         85
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2461
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-06.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          80     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        1.39
+ d  MEMORY                                                                           1536.1
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         80
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2436
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-07.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         335     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.02
+ d  PREPROCTIME                                                                        1.42
+ d  MEMORY                                                                           1563.3
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        335
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2469
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-08.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         161     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        1.41
+ d  MEMORY                                                                           1567.4
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        161
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2463
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-09.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         207     0.03 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.03
+ d  PREPROCTIME                                                                        1.39
+ d  MEMORY                                                                           1551.2
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        207
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2447
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-10.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         138     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.02
+ d  PREPROCTIME                                                                        1.39
+ d  MEMORY                                                                           1550.8
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        138
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2437
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-11.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         261     0.03 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.03
+ d  PREPROCTIME                                                                        1.41
+ d  MEMORY                                                                           1565.8
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        261
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2462
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-12.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         519     0.04 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.04
+ d  PREPROCTIME                                                                        1.39
+ d  MEMORY                                                                           1544.2
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        519
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2437
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-13.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         187     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.02
+ d  PREPROCTIME                                                                        1.41
+ d  MEMORY                                                                           1563.4
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        187
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2466
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-14.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          31     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        1.39
+ d  MEMORY                                                                           1552.4
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         31
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2445
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-15.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0         132     0.02 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.02
+ d  PREPROCTIME                                                                        1.39
+ d  MEMORY                                                                           1545.7
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                        132
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2436
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-16.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          38     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                         1.4
+ d  MEMORY                                                                           1563.7
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         38
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2465
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-17.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          88     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        1.37
+ d  MEMORY                                                                           1538.2
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         88
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2429
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-18.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          94     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                        1.39
+ d  MEMORY                                                                           1530.4
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         94
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2426
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_C-19.xml
+c Mistral 16062018
+ c +===========================================+
+ c |        0          72     0.01 |         0 | 
+ c +===========================================+
+ c +========================================================================================+
+ s                                                                             UNSATISFIABLE
+ v                                                                                        0
+ d  MAXDEPTH                                                                              0
+ d  SUCCESS                                                                               1
+ d  RUNTIME                                                                            0.01
+ d  PREPROCTIME                                                                         1.4
+ d  MEMORY                                                                           1553.2
+ d  NODES                                                                                 0
+ d  RESTARTS                                                                              1
+ d  FAILURES                                                                              1
+ d  BACKTRACKS                                                                            0
+ d  PROPAGATIONS                                                                         72
+ d  VARIABLES                                                                           900
+ d  CONSTRAINTS                                                                        2455
+ d  ARITY                                                                               900
+ d  WEAKDEC                                                                               0
+ c +========================================================================================+
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-01.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-02.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-03.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-04.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-05.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-06.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-07.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-08.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-09.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-10.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-11.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-12.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-13.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-14.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-15.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-16.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-17.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-18.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_E-19.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-01.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-02.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-03.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-04.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-05.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-06.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-07.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-08.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-09.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-10.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-11.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-12.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-13.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-14.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-15.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-16.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-17.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-18.xml
+c Mistral 16062018
+BENCHMARKdata_arc/Subisomorphism-Subisomorphism_F-19.xml
+c Mistral 16062018
