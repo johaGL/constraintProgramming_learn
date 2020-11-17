@@ -61,9 +61,6 @@ def yieldbenchdico(filesolverstats):
 benchdicoARC = yieldbenchdico(outputARC)
 benchdicoNOARC = yieldbenchdico(outputNOARC)
 
-
-
-
 print(benchdicoARC['Subisomorphism_METABO-111'])
 print(benchdicoNOARC['Subisomorphism_METABO-111']) 
 print("end dictionnaire benchmark")
@@ -92,9 +89,9 @@ BACKTRACKS_arc = []
 PROPAGATIONS_arc = []
 
 # ON VA INCLURE SATISFIABLE ET NON SATISFIABLE ! 
-commonkeys = [key for key in benchdicoNOARC.keys() if key in benchdicoARC.keys()]
+#commonkeys = [key for key in benchdicoNOARC.keys() if key in benchdicoARC.keys()]
 
-for key in commonkeys:
+for key in benchdicoNOARC.keys():
     if len(benchdicoNOARC[key]) > 1 :
         CATEGORIE.append("NOARC") 
         SATISFIABLE.append(benchdicoNOARC[key]["SS"])
@@ -105,6 +102,8 @@ for key in commonkeys:
         RESTARTS.append(benchdicoNOARC[key]["RESTARTS"])
         BACKTRACKS.append(benchdicoNOARC[key]["BACKTRACKS"])
         PROPAGATIONS.append(benchdicoNOARC[key]["PROPAGATIONS"])
+
+for key in benchdicoARC.keys():
     if len(benchdicoARC[key]) > 1 :
         CATEGORIE_arc.append("ARC")
         SATISFIABLE_arc.append(benchdicoARC[key]["SS"])
@@ -116,10 +115,10 @@ for key in commonkeys:
         BACKTRACKS_arc.append(benchdicoARC[key]["BACKTRACKS"])
         PROPAGATIONS_arc.append(benchdicoARC[key]["PROPAGATIONS"])
 
-
 print("instances 'satisfiables' selon type de contrainte (txt): ")
 print("avec arc ==>" +str(len(SATISFIABLE))  + "/" +str(len(benchdicoARC)))
 print("sans arc ==>" +str(len(SATISFIABLE_arc))+"/" +str(len(benchdicoNOARC)))
+
 """       
 print(len(CATEGORIE))
 print(len(SATISFIABLE))
@@ -128,8 +127,6 @@ print(len(CATEGORIE_arc))
 print(len(SATISFIABLE_arc))
 print(len(VARIABLES_arc))
 """
-
-
 fig = plt.figure()
 fig.suptitle('Temps de calcul en fonction des contraintes et Type')
 plt.scatter(CONSTRAINTS_arc,RUNTIME_arc, c="tomato", label="arc_orienté")
@@ -166,7 +163,6 @@ plt.ylabel("Temps (s)")
 plt.legend()
 fig.savefig(f_o_d+'BENCHMARK_arcVSnonarc_memVt.jpg')
 
-
 """ INUTILE, CEST TOUT SATISFIABLE CAR LA TAILLE DE SUBDICTIOS > 1
 def getnum(mysatvector):
     tmp = []
@@ -181,70 +177,6 @@ print(getnum(SATISFIABLE))
 """
 
 
-"""
-fig = plt.figure()
-x = np.array(RATIO_TG)
-y = np.array(RUNTIME)
-fig.suptitle('Temps de calcul en fonction du ratio nbArêtes/nbNodes du Target')
-plt.scatter(x,y, c="coral")
-plt.xlabel("ratio nbArêtes/nbNodes in Target")
-plt.ylabel("Temps (s)")
-fig.savefig(f_o_d+'BENCHMARK_seulTarget.jpg')
-
-fig = plt.figure()
-x = np.divide( (np.divide(RATIO_MOTIF, RATIO_TG)) ,np.array(CONSTRAINTS))
-y = np.array(MEMORY)
-fig.suptitle('Ressources en fonction des tailles relatives motif/target')
-plt.scatter(x,y, c="darkviolet")
-plt.xlabel("NbAretes/Nbnoeuds Motif / NbAretes/Nbnoeuds Target")
-plt.ylabel("Ressources Mémoire (Gb)")
-fig.savefig(f_o_d+'BENCHMARKfigratioderatio.jpg')
-
-fig = plt.figure()
-x = np.array(EDGESMOTIF)
-y = np.array(MEMORY)
-colorcat = []
-for i in range(len(EDGESMOTIF)):
-    tmp = EDGESMOTIF[i] / EDGESTG[i]
-    if tmp < 0.1:
-        colorcat.append("black")
-    elif  tmp >= 0.1 and tmp <= 0.3:
-        colorcat.append("indigo")
-    elif tmp > 0.3 and tmp < 0.8:
-        colorcat.append("gray") #un seul point gray en tout cas
-    else: colorcat.append("royalblue")
-fig.suptitle('Ressources en fonction des tailles relatives motif/target')
-plt.scatter(x,y, c=colorcat)
-patch1 = mpatches.Patch(color="indigo", label="0.1-0.3 du target")
-patch2 = mpatches.Patch(color="royalblue", label="0.8-0.9 du target")
-plt.legend(handles=[patch1,patch2])
-plt.xlabel("Nb arêtes du motif")
-plt.ylabel("Ressources Mémoire (Mib)")
-fig.savefig(f_o_d+'BENCHMARK_Var_Space.jpg')
-
-#special color map with plotly and pandas (this shows in browser directly):
-rapportNEW = list(np.divide(CONSTRAINTS, NODESMOTIF))
-print(rapportNEW)
-minidico = {  "nb Nodes target" : NODESTG, "runtime (s)" : RUNTIME, \
-    "Rapport nb Contraintes/nb Variables" : rapportNEW,\
-        "nb Nodes motif" : NODESMOTIF}
-df = pandas.DataFrame(minidico, columns = ["nb Nodes target", "runtime (s)", \
-    "Rapport nb Contraintes/nb Variables", "nb Nodes motif"])
-fig = px.scatter(df, x="Rapport nb Contraintes/nb Variables", y="runtime (s)", color="nb Nodes target",\
-     color_continuous_scale=px.colors.sequential.Inferno, size="nb Nodes motif")
-fig.show() #see browser !! 
-
- 
-ratioEdgesConstraints = np.divide(EDGESMOTIF,CONSTRAINTS)
-fig = plt.figure()
-x = ratioEdgesConstraints
-y = np.array(RUNTIME)
-fig.suptitle('Temps de calcul en fonction du ratio nb Arêtes_Motif/Contraintes')
-plt.scatter(x,y, c="darkgreen")
-plt.xlabel("Ratio nb Arêtes_Motif/Contraintes")
-plt.ylabel("Temps (s)")
-fig.savefig(f_o_d+'BENCHMARK_.jpg')
-"""
 
 
  
