@@ -37,7 +37,7 @@ cd script/2_lancer_modelisation_solver/
 #non effectué mais possible
 ./script_Abscon.sh
 ``` 
-![pipeline_analyse]()
+![pipeline_analyse](https://github.com/johaGL/constraintProgramming_learn/blob/master/pipeline_analyse.png)
 
 ## Modèle :
 - Générer dans script/2_lancer_modelisation_solver/Subisomorphism.py
