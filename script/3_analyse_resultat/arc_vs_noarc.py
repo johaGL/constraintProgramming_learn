@@ -3,7 +3,7 @@
 """
 code  a changé
 car on va inclure pour le meme jeu donnes
-des resultats avec et sans arc
+des resultats avec et sans DIRECTION des arcs
 """
 import os
 import glob
